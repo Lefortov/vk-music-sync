@@ -10,10 +10,6 @@ namespace ConsoleApplication
         private static Dictionary<string, string> _translations {get;set;}
         public static void Main(string[] args)
         {
-            int second = 1000;
-            int minute = 60;
-            int hour = 60;
-            int twelveHours = second * minute * hour * 12;
             try
             {
                 Console.WriteLine("Hello, I'm the Dude. So that's what you call me. You know, that or, uh, His Dudeness, or uh, Duder, ");
