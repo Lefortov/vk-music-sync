@@ -6,5 +6,7 @@
 
 ## Usage
 
-``` cd vk-music-sync
-    dotnet run ```
+```sh
+cd vk-music-sync
+dotnet run
+```
